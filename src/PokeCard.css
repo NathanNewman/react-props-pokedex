@@ -1,0 +1,19 @@
+.poke-card {
+    display: inline-block;
+    width: 12em;
+    background-color: lightgray;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+}
+
+.poke-card h3 {
+  color: blue;
+}
+
+.poke-dex {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
